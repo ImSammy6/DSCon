@@ -1,7 +1,7 @@
 # DSCon
 Use a Nintendo DS as a wireless Switch controller, using a Raspberry Pi Pico W as a receiver.
 
-<img width="256" height="384" alt="dsconexample" src="https://github.com/user-attachments/assets/2af56d77-2a48-4aa0-89d4-3239ed2ad310" />
+<img width="256" height="384" alt="dsconexample" src="https://github.com/user-attachments/assets/7336af27-0c90-4455-b194-322db5b27c60" />
 
 You can tap the center of the screen where it says which joystick is selected for L3/R3. You can also press volume-down on a DSi for the opposite L3/R3 button.
 The power button also works as the home button on a DSi.
