@@ -1,4 +1,4 @@
-# dscon
+# DSCon
 Use a Nintendo DS as a wireless Switch controller, using a Raspberry Pi Pico W as a receiver.
 
 <img width="256" height="384" alt="dsconexample" src="https://github.com/user-attachments/assets/b1e4b14a-1647-441e-bf95-85df0c144bf2" />
